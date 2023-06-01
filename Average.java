@@ -10,5 +10,8 @@ public class Average {
 
         average = (num1 + num2 + num3 + num4) / 4.0;
         System.out.println(average);
+
+    
+
     }
 }
